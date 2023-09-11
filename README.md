@@ -111,7 +111,7 @@ Aprender o básico sobre contribuição no GitHub.
 
 ---
 
-## Contribua
+## Contribua <h1>comigo AGORA PRESTA ATENÇÂO</h1>
 [![Star](https://img.shields.io/github/stars/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/elidianaandrade/dio-lab-open-source?style=social)](https://github.com/elidianaandrade/dio-lab-open-source/issues/)
@@ -120,7 +120,7 @@ Aprender o básico sobre contribuição no GitHub.
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
-testanto modificação
+
 ⭐ Adicionando aos favoritos (**star**) 
 
 ### Membros da comunidade que já contribuiram:
